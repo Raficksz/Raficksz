@@ -6,7 +6,7 @@
 <div>
 <a href='https://github.com/Raficksz' title='Meus Status Github'>
 <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Raficksz&show_icons=true&theme=merko'>
-<img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Raficksz&layout=compact&langs_count=16&theme=merko'>
+<img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Raficksz&layout=compact&langs_count=16&theme=merko'>
 </div>
 
 # Atualmente estudando
