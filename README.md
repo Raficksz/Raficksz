@@ -1,6 +1,6 @@
 # Olá, me chamo João Rafic
 
-- 📕 Atualmente estou estudando JavaScript
+- 📕 Atualmente estou estudando Front-enf
 - 👀 Eu procuro trabalhar com front-end
 
 <div>
