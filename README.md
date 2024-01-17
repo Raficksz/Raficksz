@@ -17,5 +17,5 @@
 <img align='center' height= '60' width='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>        
 
-##
-  ![Snake animation](https://github.com/raficksz/raficksz/blob/output/github-contribution-grid-snake.svg)
+ <!-- ## -->
+ <!-- ![Snake animation](https://github.com/raficksz/raficksz/blob/output/github-contribution-grid-snake.svg)-->
